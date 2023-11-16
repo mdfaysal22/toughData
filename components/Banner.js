@@ -27,8 +27,8 @@ function Banner() {
         </div>
       </div>
 
-      <div className="h-[37rem] text-white -mt-[17rem] left-0 -bottom-[18.75rem]  w-[90rem] mx-auto rounded-[3rem] bg">
-        <div className="bg-second py-12 px-8 right-0 ">
+      <div className="h-[37rem] text-white py-12 px-8  -mt-[17rem] left-0 -bottom-[18.75rem]  w-[90rem] mx-auto rounded-[3rem] bg">
+        {/* <div className="bg-second py-12 px-8 right-0 "> */}
         <h1 className="text-[3rem] uppercase tracking-[1rem] text-white font-bold">
           Start<span className="text-[#C34043] bg-white py-3"> scraping</span>{" "}
           for <br /> free
@@ -68,9 +68,9 @@ function Banner() {
           </div>
         </form>
 
-        <button className="px-5 py-3 text-[#C34043] cursor-pointer rounded-[3.25rem] font-light mt-6 tracking-wider bg-white text-[1.25rem]">Scrape Profile</button>
+        <button className="px-5 py-3 text-[#C34043] cursor-pointer rounded-[3.25rem] font-normal mt-6 tracking-wider bg-white text-[1.25rem]">Scrape Profile</button>
         </div>
-      </div>
+      {/* </div> */}
       </div>
     {/* </div> */}
     </>

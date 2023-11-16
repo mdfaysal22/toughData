@@ -23,7 +23,7 @@ function Analytics() {
                 }
             </ul></div>
 
-            <button className='px-5 py-3 mt-12 flex-initial bg-[#C34043] cursor-pointer rounded-[3.25rem] font-semibold tracking-wider text-white text-[1.25rem]'>Try it for free!</button>
+            <button className='px-5 py-3 hover:bg-white  hover:text-[#c34043] border-2 hover:border-[#c34043] mt-12 flex-initial bg-[#C34043] cursor-pointer rounded-[3.25rem] font-semibold tracking-wider text-white text-[1.25rem]'>Try it for free!</button>
         </div>
         </div>
     </div>

@@ -28,7 +28,7 @@ const Navbar = () => {
                }
            </div>
            <div>
-               <button className='px-5 py-3 bg-[#C34043] cursor-pointer rounded-[3.25rem] font-semibold tracking-wider text-white text-[1.25rem]'>Get Start</button>
+               <button className='px-8 py-3 bg-[#C34043] hover:bg-white  hover:text-[#c34043] border-2 hover:border-[#c34043] cursor-pointer rounded-[3.25rem] font-semibold tracking-wider text-white text-[1.25rem]'>Get Started</button>
            </div>
            </div>
        </div>

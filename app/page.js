@@ -5,6 +5,7 @@ import Discover from '@/components/Discover'
 import Label from '@/components/Label'
 import Analytics from '@/components/Analytics'
 import Footer from '@/components/Footer'
+import FAQ from '@/components/FAQ'
 
 export default function Home() {
   return (
@@ -22,6 +23,7 @@ export default function Home() {
       <Label/>
     </div>
     <Analytics/>
+    <FAQ/>
     <Footer/>
     </>
 
